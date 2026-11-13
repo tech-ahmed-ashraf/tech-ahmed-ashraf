@@ -4,7 +4,7 @@
 
 I turn business needs into working software. Nearly 5 years building web products and business systems — backend-first with **Laravel & PHP**, now also **Go & React**. Today I'm building **Ilora**, an AI-native business platform, at **IVERA**.
 
-[Website](https://tech-ahmed-ashraf.github.io) · [LinkedIn](https://www.linkedin.com/in/tech-ahmed-ashraf) · [Email](mailto:tech.ahmed.ashraf@gmail.com) · [WhatsApp](https://wa.me/201128512941) · [CV](https://tech-ahmed-ashraf.github.io/assets/Ahmed-Ashraf-Ramadan-CV-Software-Engineer.pdf)
+[Website](https://tech-ahmed-ashraf.github.io) · [LinkedIn](https://www.linkedin.com/in/tech-ahmed-ashraf) · [Email](mailto:tech.ahmed.ashraf@gmail.com) · [WhatsApp](https://wa.me/201128512941)
 
 ---
 
@@ -13,7 +13,7 @@ I turn business needs into working software. Nearly 5 years building web product
 - **Ilora Meetings** — video meetings on LiveKit with real-time Arabic–English transcription and translation (OpenAI Realtime, Whisper), recording, waiting and breakout rooms.
 - **Ilora Omnichannel inbox** — WhatsApp, Facebook Messenger, Instagram, TikTok and Telegram in one inbox, with branch routing and role-based permissions.
 - **Biometric attendance bridge** — a Go service connecting on-premise ZKTeco devices to the cloud HR, leave and payroll modules.
-- **Matgar** — a multi-tenant e-commerce SaaS (Dashop, Afrimart): notifications and SMS on Laravel queues, discounts, faster search and dashboard.
+- **Dashop** — a multi-tenant e-commerce SaaS where merchants launch their own stores: notifications and SMS on Laravel queues, discounts, faster search and dashboard.
 - **Cargo Pro** (630+ sales) and **LaraBuilder** (680+ sales) — two commercial Laravel products on CodeCanyon.
 - **Egyptian Shipping Tracker** — a personal full-stack project tracking parcels across Egyptian couriers.
 
